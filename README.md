@@ -51,6 +51,6 @@ T.B.D.
 
 | Property | Description | Requires |
 |:------|:------|:------|
-|`text`| | Yes |
+|`text`| | :white_check_mark: Yes |
 |`fonts`| | No |
 |`size`| | No |
