@@ -27,6 +27,7 @@ T.B.D.
                 "text": "Hello glTF!",
                 "fonts": ["Arial", "Times New Roman"],
                 "size": 1.0,
+                "color": [1.0, 1.0, 1.0, 1.0]
             }
         ]
     }
