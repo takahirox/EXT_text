@@ -49,8 +49,9 @@ T.B.D.
 
 ## Text Types
 
-| Property | Description | Requires |
-|:------|:------|:------|
-|`text`| | :white_check_mark: Yes |
-|`fonts`| | No |
-|`size`| | No |
+| Property | Type | Description | Requires |
+|:------|:------|:------|:------|
+| `text` | `string` | | :white_check_mark: Yes |
+| `fonts` | `string` `[1-*]` | | No |
+| `color` | `number` `[4]`| Text's RGBA font color | No, default: `[0,0,0,1]1 |
+| `size` | number| | No |
