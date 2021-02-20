@@ -3,7 +3,7 @@
 ## Contributors
 
 * Diego F. Goberna, Embark Studios, [@feiss](https://twitter.com/feiss)
-* Takahiro Aoyagi, Mozilla [@takahirox](https://twitter.com/takahirox)
+* Takahiro Aoyagi, Mozilla [@takahirox](https://twitter.com/superhoge)
 
 ## Status
 
