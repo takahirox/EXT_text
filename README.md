@@ -55,4 +55,4 @@ T.B.D.
 | `text` | `string` | | :white_check_mark: Yes |
 | `fonts` | `string` `[1-*]` | | No |
 | `color` | `number` `[4]`| Text's RGBA font color | No, default: `[0,0,0,1]` |
-| `size` | number| | No |
+| `size` | number| | No, default: `1.0` |
