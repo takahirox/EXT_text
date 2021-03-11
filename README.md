@@ -17,6 +17,10 @@ Written against the glTF 2.0 spec.
 
 T.B.D.
 
+## Example screenshot
+
+<img src="./screenshot.png" alt="Example screenshot" width="320">
+
 ## Defining Texts
 
 ```
