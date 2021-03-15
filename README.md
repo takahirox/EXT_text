@@ -56,7 +56,7 @@ T.B.D.
 
 | Property | Type | Description | Requires |
 |:------|:------|:------|:------|
-| `text` | `string` | | :white_check_mark: Yes |
+| `text` | `string` | Text content | :white_check_mark: Yes |
 | `fonts` | `string` `[1-*]` | | No |
 | `color` | `number` `[4]`| Text's RGBA font color | No, default: `[0,0,0,1]` |
 | `size` | number| | No, default: `1.0` |
